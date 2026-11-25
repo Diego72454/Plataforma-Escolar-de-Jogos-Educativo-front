@@ -37,3 +37,4 @@ mvn test
 3. Após o login, a turma e a faixa etária do aluno são retornadas
 4. Credenciais inválidas → mensagem clara, sem detalhes técnicos
 # Plataforma-Escolar-de-Jogos-Educativo-front
+# Plataforma-Escolar-de-Jogos-Educativo-front
